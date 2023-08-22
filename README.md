@@ -1,0 +1,2 @@
+Projeto prático de tela de login inspirado em League of Legends
+Objetivo: Praticar manipulação DOM, eventos e funções em Javascript. Em CSS: Design responsivo e moderno, pseudo elementos, armazenamento de cores em variáveis.
